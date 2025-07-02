@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently a computer science and engineering student in KUET<br>I am learning problem ,web development and many application projects
+ I am currently a computer science and engineering student in KUET<br>I am learning problem solving ,web development and many application projects
 
 
 ## 🌐 Socials:
